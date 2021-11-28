@@ -1,4 +1,4 @@
-# **Análise de dados - Forest Fires in Brazil - Number of forest fires reported in Brazil by State 1998 e 2017 **
+# **Análise de dados - Forest Fires in Brazil - Number of forest fires reported in Brazil by State 1998 e 2017**
 
 ![Banner books](https://github.com/felipeacardozo/Projetos-Data-Science/blob/main/projeto_forest_fires_in_brazil/img/banner-fire-forest.png)
 
