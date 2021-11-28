@@ -1,3 +1,5 @@
+![Banner Data Science](https://github.com/felipeacardozo/Projetos-Data-Science/blob/main/img/banner-data-science.jpg)
+
 # **Felipe Alves Cardozo**
  Bem-vindo(a), este é o meu portfólio de projetos de **Análise e Ciência de Dados**.
  
