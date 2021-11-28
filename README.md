@@ -17,7 +17,7 @@ Utilizarei este repositório com o objetivo de compartilhar os meus projetos de 
 Projeto | Jupyter Notebook
 ---|---|
 Amazon Top 50 Bestselling Books 2009 - 2019 | [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science/blob/main/projeto_amazon_top_50_bestselling/projeto_amazon_top_50_bestselling.ipynb)
-Forest Fires in Brazil 1998 - 2017| [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science/blob/main/projeto_forest_fires_in_brazil/[Projeto]%20-%20An%C3%A1lise%20de%20queimadas%20no%20Brasil.ipynb)
+Forest Fires in Brazil 1998 - 2017| [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science/blob/main/projeto_forest_fires_in_brazil/projeto_forest_fires_in_brazil.ipynb)
 Projeto 03 | [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science)
 
 ## **Ciência de Dados - Machine Learning**
