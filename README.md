@@ -10,7 +10,7 @@ Tenho buscado a partir disso o desenvolvimento das minhas habilidades em Python,
 ## **Portfólio**
 Utilizarei este repositório com o objetivo de compartilhar os meus projetos de Análise e Ciência de dados, serão apresentados diversos projetos com construção em diversas ferramentas, principamente **Jupyter Notebooks**, **Dashboards** e **Reports**.
 
-## **Análise de Dados**
+## **Análise de Dados - Exploração**
 
 Projeto | Jupyter Notebook
 ---|---|
@@ -18,10 +18,21 @@ Projeto 01 | [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science)
 Projeto 02 | [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science)
 Projeto 03 | [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science)
 
-## **Ciência de Dados**
+## **Ciência de Dados - Machine Learning**
 
-Projeto | Jupyter Notebook
----|---|
-Projeto 01 | [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science)
-Projeto 02 | [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science)
-Projeto 03 | [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science)
+Projeto | Jupyter Notebook | Publicação
+---|---|---|
+Projeto 01 | [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science) | [Modelo em Produção](https://github.com/felipeacardozo/Projetos-Data-Science) 
+Projeto 02 | [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science) | [Modelo em Produção](https://github.com/felipeacardozo/Projetos-Data-Science) 
+Projeto 03 | [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science) | [Modelo em Produção](https://github.com/felipeacardozo/Projetos-Data-Science) 
+
+## **Dashboards**
+
+* [Dashboard 01](https://github.com/felipeacardozo/Projetos-Data-Science) - Formação 
+* [Dashboard 02](https://github.com/felipeacardozo/Projetos-Data-Science) - Formação 
+* [Dashboard 03](https://github.com/felipeacardozo/Projetos-Data-Science) - Formação 
+
+## **Contato**
+
+* [Linkedin](https://www.linkedin.com/in/felipe-alves-cardozo/)
+* E-mail: felipeacardozo@gmail.com
