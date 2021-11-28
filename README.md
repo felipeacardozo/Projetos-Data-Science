@@ -16,7 +16,7 @@ Utilizarei este repositório com o objetivo de compartilhar os meus projetos de 
 
 Projeto | Jupyter Notebook
 ---|---|
-Projeto 01 | [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science)
+Amazon Top 50 Bestselling Books 2009 - 2019 | [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science/blob/main/projeto_amazon_top_50_bestselling/projeto_amazon_top_50_bestselling.ipynb)
 Projeto 02 | [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science)
 Projeto 03 | [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science)
 
