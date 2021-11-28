@@ -1,5 +1,5 @@
 # **Felipe Alves Cardozo**
- Bem-vindo(a), este é o meu portfólio de projetos de Análise e Ciência de Dados.
+ Bem-vindo(a), este é o meu portfólio de projetos de **Análise e Ciência de Dados**.
  
 Sobre mim:
  
