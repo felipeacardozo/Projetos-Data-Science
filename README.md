@@ -18,7 +18,7 @@ Projeto | Jupyter Notebook
 ---|---|
 Amazon Top 50 Bestselling Books 2009 - 2019 | [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science/blob/main/projeto_amazon_top_50_bestselling/projeto_amazon_top_50_bestselling.ipynb)
 Forest Fires in Brazil 1998 - 2017| [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science/blob/main/projeto_forest_fires_in_brazil/projeto_forest_fires_in_brazil.ipynb)
-Monthly Salary of Public Worker in Brazil Oct 2017 | [Notebook]([https://github.com/felipeacardozo/Projetos-Data-Science](https://github.com/felipeacardozo/Projetos-Data-Science/blob/main/projeto_monthly_salary_public_worker_brazil/projeto_monthly_salary_brazil.ipynb))
+Monthly Salary of Public Worker in Brazil Oct 2017 | [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science](https://github.com/felipeacardozo/Projetos-Data-Science/blob/main/projeto_monthly_salary_public_worker_brazil/projeto_monthly_salary_brazil.ipynb)
 
 ## **Ciência de Dados - Machine Learning**
 
