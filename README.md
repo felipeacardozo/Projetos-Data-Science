@@ -24,7 +24,7 @@ Monthly Salary of Public Worker in Brazil Oct 2017 | [Notebook](https://github.c
 
 Projeto | Jupyter Notebook | Publicação
 ---|---|---|
-Projeto 01 | [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science) | [Modelo em Produção](https://github.com/felipeacardozo/Projetos-Data-Science) 
+Wine Classification | [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science/blob/main/projeto_wine_Classification/Projeto_ML_Wine.ipynb) | [---](https://github.com/felipeacardozo/Projetos-Data-Science) 
 Projeto 02 | [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science) | [Modelo em Produção](https://github.com/felipeacardozo/Projetos-Data-Science) 
 Projeto 03 | [Notebook](https://github.com/felipeacardozo/Projetos-Data-Science) | [Modelo em Produção](https://github.com/felipeacardozo/Projetos-Data-Science) 
 
