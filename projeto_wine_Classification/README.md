@@ -8,9 +8,7 @@ que executamos diariamennte. Com isso tem se criado diversas maneiras de automat
 
 No caso do projeto em questão, quis demonstrar o poder de classificação de um model, e o qual preciso pode ser, obviamente levando em conta os viéses e o desbalanceamento de dados.
 
-Mas o intuito foi a aplicabilidade de um modelo de classificação em um dataset com informações de vinhos, onde, são definidas as características e com base nelas, são categorizadas com um rótulo de
-
-Vinho do tipo "RED" ou "White".
+Mas o intuito foi a aplicabilidade de um modelo de classificação em um dataset com informações de vinhos, onde, são definidas as características e com base nelas, são categorizadas com um rótulo de vinho do tipo "RED" ou "White".
 
  
  Para acessar o Notebook, segue o link abaixo:
