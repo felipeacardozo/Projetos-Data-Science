@@ -1,6 +1,6 @@
 # **Ciência de Dados - Wine Classification**
 
-![Banner books]([https://github.com/felipeacardozo/Projetos-Data-Science/blob/main/projeto_monthly_salary_public_worker_brazil/img/funcionarios-publicos.jpg](https://github.com/felipeacardozo/Projetos-Data-Science/blob/main/projeto_wine_Classification/img/Red-and-White-Wine.jpg))
+![Banner books]([https://github.com/felipeacardozo/Projetos-Data-Science/blob/main/projeto_wine_Classification/img/Red-and-White-Wine.jpg])
 
 Com o crescimento constante dos dados gerados no mundo de diversas formas, tem sido praticamente obrigatória, a necessidade de se utilizarem ferramentas para se obter um melhor resultado nas atividades 
 
@@ -17,6 +17,6 @@ Vinho do tipo "RED" ou "White".
  
 Projeto | 
  ---|
-[Notebook]([https://github.com/felipeacardozo/Projetos-Data-Science/blob/main/projeto_monthly_salary_public_worker_brazil/projeto_monthly_salary_brazil.ipynb](https://github.com/felipeacardozo/Projetos-Data-Science/blob/main/projeto_wine_Classification/Projeto_ML_Wine.ipynb))
+[Notebook]([https://github.com/felipeacardozo/Projetos-Data-Science/blob/main/projeto_wine_Classification/Projeto_ML_Wine.ipynb])
 
 
